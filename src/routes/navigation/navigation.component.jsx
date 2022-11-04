@@ -19,6 +19,7 @@ const Navigation = () => {
       <NavigationContainer>
         <LogoContainer to='/'>
           <CrwnLogo className="logo" />
+          WOLF CLOTHING
         </LogoContainer>
 
         <NavLinksContainer>
