@@ -22,7 +22,7 @@ const firebaseConfig = {
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
-firebaseApp
+console.log(firebaseApp)
 
 const googleProvider = new GoogleAuthProvider();
 
